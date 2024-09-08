@@ -1,4 +1,4 @@
-# Pose landmark detection
+# Pose landmark detection with Streamlit
 
 In this code, our goal is counting workout moves.
 
@@ -25,3 +25,4 @@ You have some option like webcam or uploading video, also you can choose your wo
 
 ```Note``` first select your workout, then upload your video.
 
+![streamlit](https://github.com/user-attachments/assets/70573c91-4fcd-46bf-a6f3-4e453d914615)
